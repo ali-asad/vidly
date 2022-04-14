@@ -1,0 +1,5 @@
+{
+    //the name of this module is syntactical, if we change the name it won't be accessible according to the config package
+    "jwtPrivateKey":  "vidly_jwtPrivateKey" 
+}
+
